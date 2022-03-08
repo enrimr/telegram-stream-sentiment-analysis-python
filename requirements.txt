@@ -1,0 +1,6 @@
+telethon
+elasticsearch
+pandas
+sklearn
+sentiment_analysis_spanish
+pyyaml

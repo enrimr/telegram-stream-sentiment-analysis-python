@@ -1,0 +1,7 @@
+API_ID : <Telegram APP ID>
+API_HASH : <Telegram API Hash>
+ELASTIC_URL : <ElasticSearch URL>
+ELASTIC_USER : <ElasticSearch user - deprecated>
+ELASTIC_PASSWORD : <ElasticSearch Password - deprecated>
+ELASTIC_APP_ID : <ElasticSearch APP ID>
+ELASTIC_API_KEY : <ElasticSearch API KEY>
