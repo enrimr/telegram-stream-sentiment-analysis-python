@@ -26,10 +26,12 @@ For the Index, you need to create the index telegram-sentiment.
 
 Go to DevTools and:
 
+```
 PUT /telegram-sentiment
+```
 
 To create API credentials:
-
+```
 POST /_security/api_key
 {
   "name": "telegram-script",
@@ -43,7 +45,7 @@ POST /_security/api_key
     }
   }
 }
-
+```
 
 ## Running the code
 
